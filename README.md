@@ -1,2 +1,1 @@
-# Reactjs
-Here is the basic example of react js
+HERE IS THE SAMPLE CODE THAT IS THE BASICS OF REACT JS 
